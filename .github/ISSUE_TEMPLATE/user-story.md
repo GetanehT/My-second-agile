@@ -15,6 +15,6 @@ In order to **receive benefit** as a **role**, I can **goal / desire**
 + **Acceptance Criteria 3:** The option should appear next submit button
 ##Tasks
 [ ] Task 1 . Update a feedback submission form
-[ ] Task 2. create a HTML and CSS and js
-[ ] Task 3.  Create a code
+[ ] Task 2. create a HTML ,css and js
+[ ] Task 3.  Create a code 
 [ ] Task 4. Test the completed functinality
